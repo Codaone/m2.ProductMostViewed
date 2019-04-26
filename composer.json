@@ -11,7 +11,7 @@
 		"OSL-3.0"
 	],
 	"require": {
-		"php": "~5.6.0|~7.0.0|~7.1.0",
+		"php": "~5.6.0|~7.0",
 		"magento/module-reports": "100.1.*|100.2.*"
 	},
 	"autoload": {
